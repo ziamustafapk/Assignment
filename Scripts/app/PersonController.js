@@ -19,7 +19,7 @@ var PersonController = function (personService) {
     };
 
     var personGetfail = function () {
-        console.log("Fail", data);
+        console.log("Fail");
     };
     
     //end
